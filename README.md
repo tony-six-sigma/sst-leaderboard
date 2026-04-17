@@ -4,8 +4,6 @@ A live monthly recruiter leaderboard rendered from a Notion database. One Vercel
 
 Built for — and running in production at — **Six Sigma Talent K.K.**, a Tokyo-based bilingual executive recruiting firm. Open-sourced as a self-contained component you can drop into any Notion-based recruiting pipeline.
 
-![Leaderboard screenshot](docs/screenshot.png)
-
 ---
 
 ## Why this exists
