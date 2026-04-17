@@ -1,0 +1,17 @@
+{
+  "name": "sst-leaderboard",
+  "version": "1.0.0",
+  "description": "Live monthly recruiter leaderboard rendered from a Notion database. One serverless function, no build step.",
+  "license": "MIT",
+  "author": "Tony Nakada",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tony-six-sigma/sst-leaderboard.git"
+  },
+  "dependencies": {
+    "@vercel/node": "^3.2.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  }
+}
